@@ -32,7 +32,7 @@
         <div class="main-content">
             <header class="hero-section">
                 <h2>Welcome to the Ultimate Hot Wheels Collection</h2>
-                <p>Discover, Collect, and Race with the Best Cars</p>
+                <h2>Discover, Collect, and Race with the Best Cars</h2>
             </header>
 
             <!-- PRODUCTS SECTION -->
