@@ -40,7 +40,6 @@
                 <div class="product-card">
                     <img src="hotwheels_super_speedster.jpg" alt="Hot Wheels Super Speedster" style="width:100%;">
                     <h3>Hot Wheels Car</h3>
-                    <p>Super Speedster</p>
                     <button class="btn">View Details</button>
                     <button class="btn buy-btn">Buy</button>
                 </div>
